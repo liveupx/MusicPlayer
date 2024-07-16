@@ -1,4 +1,4 @@
-# A Stylish Music Player
+# A Stylish Music Playerr
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ryanhoo/StylishMusicPlayer#license)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
